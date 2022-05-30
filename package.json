@@ -1,0 +1,18 @@
+{
+  "name": "velvet",
+  "version": "1.0.0",
+  "description": "steal ur reddit video in seconds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "velvet": "./main.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
